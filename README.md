@@ -38,7 +38,7 @@ make invader
 
 ### Quitter une simulation
 
-⚠️ **IMPORTANT** ⚠️
+**IMPORTANT** 
 
 NE QUITTEZ PAS UNE SIMULATION EN FAISANT UN CTRL+C DANS LE TERMINAL.  
 Cela empêchera le nettoyage automatique des fichiers générés lors de l'exécution.
