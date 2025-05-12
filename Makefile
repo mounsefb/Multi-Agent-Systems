@@ -98,4 +98,4 @@ schelling: schellingCompileandRun clean
 invader: runTestInvader clean
 
 clean:
-	rm -rf bin/
+	rm -rf bin docs
